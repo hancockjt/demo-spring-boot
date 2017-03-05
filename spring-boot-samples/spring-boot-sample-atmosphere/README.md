@@ -1,1 +1,2 @@
-This is the sample project I am using to create a demo pipeline in Jenkins 2
+This is the sample project I am using to create a demo pipeline in Jenkins 2.
+Currently setting build triggers.
