@@ -68,7 +68,7 @@ public class SampleAtmosphereApplicationTests {
 		context.close();
 		assertThat(count).isEqualTo(0L);
 		assertThat(messagePayloadReference.get())
-				.contains("{\"message\":\"test\",\"author\":\"test\",\"foo\":\"bar\",\"time\":");
+				.contains("{\"message\":\"test\",\"author\":\"test\",\"time\":");
 	}
 
 	@Configuration
